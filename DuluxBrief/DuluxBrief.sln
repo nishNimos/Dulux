@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "duluxbrief.client", "duluxbrief.client\duluxbrief.client.esproj", "{B2AF320E-77B7-B122-1414-54388F5A8EA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuluxBrief.Server", "DuluxBrief.Server\DuluxBrief.Server.csproj", "{2DBAD839-978F-4CDC-B0F0-3BD3D6FE1CCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2AF320E-77B7-B122-1414-54388F5A8EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2AF320E-77B7-B122-1414-54388F5A8EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2AF320E-77B7-B122-1414-54388F5A8EA3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B2AF320E-77B7-B122-1414-54388F5A8EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2AF320E-77B7-B122-1414-54388F5A8EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2AF320E-77B7-B122-1414-54388F5A8EA3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2DBAD839-978F-4CDC-B0F0-3BD3D6FE1CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DBAD839-978F-4CDC-B0F0-3BD3D6FE1CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DBAD839-978F-4CDC-B0F0-3BD3D6FE1CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DBAD839-978F-4CDC-B0F0-3BD3D6FE1CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FA61B4A-7293-45F7-AB4F-84E5B6EA4D0F}
+	EndGlobalSection
+EndGlobal
